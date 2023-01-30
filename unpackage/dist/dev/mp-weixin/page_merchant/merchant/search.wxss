@@ -1,0 +1,22 @@
+
+page{
+	background: #F6F6F6;
+}
+
+.search .navigation.data-v-d17c3acc {
+  width: 100%;
+}
+.search .navigation .stabar.data-v-d17c3acc {
+  background-color: white;
+}
+.search .navigation .topTitle.data-v-d17c3acc {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20rpx;
+  background-color: white;
+}
+.search .navigation .goods_list.data-v-d17c3acc {
+  padding: 0 28rpx;
+  box-sizing: border-box;
+}
+

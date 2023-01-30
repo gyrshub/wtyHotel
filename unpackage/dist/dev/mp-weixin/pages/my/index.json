@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tar-bar": "/components/tarbar/tarbar"
+  }
+}

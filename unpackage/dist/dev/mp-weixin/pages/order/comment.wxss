@@ -1,0 +1,75 @@
+.comment.data-v-ae4abc16 {
+  position: relative;
+}
+.comment .label.data-v-ae4abc16 {
+  padding: 20rpx;
+}
+.comment .label .labelList.data-v-ae4abc16 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.comment .label .labelList .labelItem.data-v-ae4abc16 {
+  background: #F2F2F2;
+  border-radius: 19px;
+  padding: 16rpx 44rpx;
+  font-size: 12px;
+  color: #121212;
+  margin: 0 14rpx 14rpx 0;
+}
+.comment .label .labelList .active.data-v-ae4abc16 {
+  color: white;
+  background-color: #2972DE;
+}
+.comment .shopInfo.data-v-ae4abc16 {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #F5F5F5;
+  padding: 20rpx;
+}
+.comment .shopInfo .shopPicture.data-v-ae4abc16 {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 20rpx;
+  margin-right: 20rpx;
+  flex-shrink: 0;
+}
+.comment .shopInfo .score.data-v-ae4abc16 {
+  display: flex;
+  align-items: center;
+}
+.comment .commentContent.data-v-ae4abc16 {
+  padding: 20rpx;
+}
+.comment .pictureList.data-v-ae4abc16 {
+  color: #121212;
+  font-size: 32rpx;
+  font-weight: bold;
+  padding: 20rpx;
+}
+.comment .bottomTool.data-v-ae4abc16 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  padding: 20rpx 52rpx 48rpx 52rpx;
+  box-sizing: border-box;
+  box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, 0.03);
+}
+.comment .bottomTool .bButton.data-v-ae4abc16 {
+  padding: 20rpx;
+  text-align: center;
+  color: white;
+  border-radius: 10rpx;
+  background: linear-gradient(90deg, #FFAA65 0%, #FB8146 100%);
+}
+.comment .bottomTool .bButton.data-v-ae4abc16:active {
+  color: #eeeeee;
+  background: linear-gradient(90deg, #ef9d5f 0%, #ec7841 100%);
+}
+.comment .title.data-v-ae4abc16 {
+  font-size: 32rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+

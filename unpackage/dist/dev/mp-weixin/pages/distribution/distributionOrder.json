@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "分销订单",
+  "navigationBarBackgroundColor": "#F5F5F5",
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty"
+  }
+}

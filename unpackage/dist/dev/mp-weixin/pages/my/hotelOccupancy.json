@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商家入驻",
+  "navigationBarBackgroundColor": "#F5F5F5",
+  "usingComponents": {
+    "u-alert": "/uni_modules/uview-ui/components/u-alert/u-alert",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-upload": "/uni_modules/uview-ui/components/u-upload/u-upload",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker"
+  }
+}

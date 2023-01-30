@@ -1,0 +1,164 @@
+
+page{
+	background-color: #F6F6F6;
+}
+
+.money .topTool.data-v-b9ce4cd4 {
+  width: 750rpx;
+  height: 424rpx;
+  position: relative;
+  background: url('https://zy.xry.ink/file-api/statics/2022/11/21/62bf4f9e5b814e0d9f79857653f85deb_20221121102039A467.png') no-repeat;
+  background-position: 0% 0%;
+  background-size: 100% 100%;
+  z-index: 5;
+}
+.money .topTool .tool.data-v-b9ce4cd4 {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  z-index: 10;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+}
+.money .topTool .tool .icon.data-v-b9ce4cd4 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.money .topTool .topTitle.data-v-b9ce4cd4 {
+  position: absolute;
+  left: 50%;
+  z-index: 10;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 32rpx;
+  color: #FFFFFF;
+}
+.money .topTool .showMoney.data-v-b9ce4cd4 {
+  color: #3D3D3D;
+  font-size: 32rpx;
+  z-index: 100;
+  position: absolute;
+  padding: 0 32rpx;
+  left: 0;
+  top: 160rpx;
+}
+.money .topTool .showMoney .money.data-v-b9ce4cd4 {
+  font-size: 32rpx;
+  font-family: Bahnschrift;
+  display: flex;
+  align-items: center;
+  margin-top: 60rpx;
+}
+.money .topTool .showMoney .money .light.data-v-b9ce4cd4 {
+  font-size: 50rpx;
+  color: #081831;
+}
+.money .moneyInfo.data-v-b9ce4cd4 {
+  color: #FFFFFF;
+  font-size: 24rpx;
+  z-index: 100;
+  position: relative;
+}
+.money .moneyInfo .info.data-v-b9ce4cd4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 28rpx;
+  background: linear-gradient(90deg, #141414 0%, rgba(78, 78, 78, 0.97) 89%);
+  border-radius: 0 0 20rpx 20rpx;
+  padding: 20rpx 50rpx;
+  box-sizing: border-box;
+}
+.money .moneyInfo .info .info-left.data-v-b9ce4cd4 {
+  display: flex;
+}
+.money .moneyInfo .info .info-left .left_item.data-v-b9ce4cd4 {
+  position: relative;
+}
+.money .moneyInfo .info .info-left .left_item.data-v-b9ce4cd4:first-child {
+  margin-right: 80rpx;
+}
+.money .moneyInfo .info .info-left .left_item.data-v-b9ce4cd4:first-child::after {
+  content: '|';
+  color: #FFF;
+  position: absolute;
+  top: 0;
+  right: -44rpx;
+}
+.money .moneyInfo .info .info-right.data-v-b9ce4cd4 {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.money .moneyInfo .info .info-right .showTime.data-v-b9ce4cd4 {
+  display: flex;
+  font-size: 26rpx;
+  align-items: center;
+  justify-content: center;
+}
+.money .moneyInfo .info .info-right .active.data-v-b9ce4cd4 {
+  border-top: 0;
+  border-bottom: 10rpx solid #FFFFFF;
+}
+.money .moneyInfo .timeList.data-v-b9ce4cd4 {
+  width: 180rpx;
+  background-color: #FFFFFF;
+  border-radius: 10rpx;
+  color: #121212;
+  position: absolute;
+  left: -10rpx;
+  bottom: -220rpx;
+}
+.money .moneyInfo .timeList .time-item.data-v-b9ce4cd4 {
+  padding: 16rpx 10rpx;
+  border-radius: 10rpx;
+}
+.money .moneyInfo .timeList .time-item.data-v-b9ce4cd4:active {
+  background-color: #F5F5F5;
+}
+.money .infoList.data-v-b9ce4cd4 {
+  margin-top: 80rpx;
+  padding: 0 40rpx;
+  box-sizing: border-box;
+  position: relative;
+}
+.money .infoList .infoItem.data-v-b9ce4cd4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32rpx 0;
+  border-bottom: 2rpx solid #F5F5F5;
+}
+.money .infoList .infoItem .infoItem-left.data-v-b9ce4cd4 {
+  width: 70%;
+}
+.money .infoList .infoItem .infoItem-left .name.data-v-b9ce4cd4 {
+  font-weight: bold;
+  font-size: 30rpx;
+  color: #121212;
+}
+.money .infoList .infoItem .infoItem-left .time.data-v-b9ce4cd4 {
+  font-size: 26rpx;
+  color: #707070;
+  margin-top: 4rpx;
+}
+.money .infoList .infoItem .infoItem-right.data-v-b9ce4cd4 {
+  color: #FB8146;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.money .infoList .infoItem .infoItem-right .moneyText.data-v-b9ce4cd4 {
+  font-size: 40rpx;
+  font-family: Bahnschrift;
+  display: flex;
+  align-items: center;
+}
+.money .infoList .infoItem .infoItem-right .refund.data-v-b9ce4cd4 {
+  font-size: 24rpx;
+  color: #f90505;
+}
+.money .infoList .infoItem .cost.data-v-b9ce4cd4 {
+  color: #47D33E;
+}
+

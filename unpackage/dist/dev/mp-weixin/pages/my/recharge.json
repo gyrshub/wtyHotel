@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "充值中心",
+  "navigationBarBackgroundColor": "#F5F5F5",
+  "usingComponents": {
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

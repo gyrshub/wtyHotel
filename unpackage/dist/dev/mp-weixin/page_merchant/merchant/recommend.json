@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "精品推荐",
+  "usingComponents": {
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty"
+  }
+}

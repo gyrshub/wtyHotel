@@ -1,0 +1,89 @@
+
+page {
+	background-color: #F5F5F5;
+}
+
+.recommend.data-v-7b6650ba {
+  padding: 0 32rpx;
+}
+.recommend .recommend_title.data-v-7b6650ba {
+  font-size: 32rpx;
+  margin: 20rpx 0;
+  font-weight: bold;
+}
+.recommend .limitItem.data-v-7b6650ba {
+  padding: 32rpx;
+  display: flex;
+  margin-top: 32rpx;
+  background-color: white;
+  border-radius: 20rpx;
+}
+.recommend .limitItem.data-v-7b6650ba:not(:last-child) {
+  border-bottom: 1px solid #F5F5F5;
+}
+.recommend .limitItem .shopImage.data-v-7b6650ba {
+  width: 224rpx;
+  height: 224rpx;
+  flex-shrink: 0;
+  margin-right: 20rpx;
+  border-radius: 10rpx;
+}
+.recommend .limitItem .shopInfo.data-v-7b6650ba {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 24rpx;
+}
+.recommend .limitItem .shopInfo .shopName.data-v-7b6650ba {
+  font-size: 32rpx;
+  color: #0B0B0B;
+  font-weight: bold;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.recommend .limitItem .shopInfo .shopPrice.data-v-7b6650ba {
+  display: flex;
+  align-items: center;
+}
+.recommend .limitItem .shopInfo .shopPrice .newPrice.data-v-7b6650ba {
+  color: #DC4444;
+  display: flex;
+  align-items: center;
+  margin-right: 8rpx;
+}
+.recommend .limitItem .shopInfo .shopPrice .newPrice .dec.data-v-7b6650ba {
+  -webkit-transform: rotate(0.8);
+          transform: rotate(0.8);
+  -webkit-transform-origin: left;
+          transform-origin: left;
+}
+.recommend .limitItem .shopInfo .shopPrice .newPrice .light.data-v-7b6650ba {
+  font-size: 40rpx;
+  font-family: Bahnschrift_SemiBold;
+}
+.recommend .limitItem .shopInfo .shopPrice .oldwPrice.data-v-7b6650ba {
+  color: #979797;
+  text-decoration: line-through;
+}
+.recommend .limitItem .number.data-v-7b6650ba {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.recommend .limitItem .number .number-btn.data-v-7b6650ba {
+  background: #DC4444;
+  border-radius: 10rpx;
+  color: white;
+  padding: 8rpx 20rpx;
+}
+.recommend .limitItem .number .number-btn.data-v-7b6650ba:active {
+  background: #d14141;
+}
+.recommend .limitItem .number .nothing.data-v-7b6650ba {
+  background: #d6d6d6;
+  color: #707070;
+}
+

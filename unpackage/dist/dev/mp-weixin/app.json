@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/collection/index",
+    "pages/order/index",
+    "pages/order/orderDetail",
+    "pages/order/comment",
+    "pages/shop/index",
+    "pages/shop/detail",
+    "pages/shop/payOrder",
+    "pages/shop/orderDetail",
+    "pages/my/index",
+    "pages/my/member",
+    "pages/my/money",
+    "pages/my/integral",
+    "pages/my/wallet",
+    "pages/my/coupon",
+    "pages/my/hotelOccupancy",
+    "pages/my/recharge",
+    "pages/my/personal",
+    "pages/distribution/code",
+    "pages/distribution/distributionOrder",
+    "pages/distribution/distributionApply",
+    "pages/login/login"
+  ],
+  "subPackages": [
+    {
+      "root": "page_merchant",
+      "pages": [
+        "merchant/search",
+        "merchant/activity",
+        "merchant/limitBuy",
+        "merchant/recommend",
+        "merchant/merchantDetail",
+        "merchant/goodsDetail",
+        "merchant/hotelOrder",
+        "merchant/stealOrder"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "selectedColor": "#FB8146",
+    "color": "#999999",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/collection/index"
+      },
+      {
+        "pagePath": "pages/order/index"
+      },
+      {
+        "pagePath": "pages/shop/index"
+      },
+      {
+        "pagePath": "pages/my/index"
+      }
+    ]
+  },
+  "usingcomponents": true,
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要获取您的位置信息"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {}
+}

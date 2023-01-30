@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tool-tar": "/components/toolbar/toolbar",
+    "goods-item": "/components/goodsItem/goodsItem",
+    "tar-bar": "/components/tarbar/tarbar"
+  }
+}

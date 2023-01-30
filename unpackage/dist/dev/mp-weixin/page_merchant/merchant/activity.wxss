@@ -1,0 +1,22 @@
+
+page{
+	background: #F6F6F6;
+}
+
+.activity .navigation.data-v-67323601 {
+  width: 100%;
+}
+.activity .navigation .stabar.data-v-67323601 {
+  background-color: white;
+}
+.activity .navigation .topTitle.data-v-67323601 {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20rpx;
+  background-color: white;
+}
+.activity .navigation .goods_list.data-v-67323601 {
+  padding: 0 28rpx;
+  box-sizing: border-box;
+}
+

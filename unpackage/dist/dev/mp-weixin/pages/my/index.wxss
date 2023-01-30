@@ -1,0 +1,184 @@
+
+page{
+	background: #F6F6F6;
+}
+
+.my .userInfo.data-v-4dcceeb0 {
+  padding: 0 46rpx 0 48rpx;
+  height: 492rpx;
+  background: url('https://zy.xry.ink/file-api/statics/2022/11/21/62bf4f9e5b814e0d9f79857653f85deb_20221121102039A467.png') no-repeat;
+  background-position: 0% 0%;
+  background-size: 100% 100%;
+  z-index: 5;
+}
+.my .userInfo .userInfo_content.data-v-4dcceeb0 {
+  display: flex;
+  margin-top: 68rpx;
+}
+.my .userInfo .userInfo_content .userInfo_btn.data-v-4dcceeb0 {
+  background-color: transparent;
+  padding: 0;
+  line-height: normal;
+}
+.my .userInfo .userInfo_content .userInfo_btn.data-v-4dcceeb0::after {
+  border: 0;
+}
+.my .userInfo .userInfo_content .userImg.data-v-4dcceeb0 {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-right: 24rpx;
+  border: 2px solid #E1DDAA;
+}
+.my .userInfo .userInfo_content .user_item.data-v-4dcceeb0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #535251;
+  font-size: 40rpx;
+}
+.my .userInfo .userInfo_content .user_item .name.data-v-4dcceeb0 {
+  color: #1F1F1F;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.my .userInfo .userInfo_content .user_item .phone.data-v-4dcceeb0 {
+  font-size: 32rpx;
+  margin-top: 20rpx;
+}
+.my .userInfo .userInfo_content .user_item .experience.data-v-4dcceeb0 {
+  font-size: 24rpx;
+  -webkit-transform: scale(0.85);
+          transform: scale(0.85);
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+}
+.my .toolContent.data-v-4dcceeb0 {
+  padding: 0 24rpx;
+  margin-top: -100rpx;
+}
+.my .toolContent .member.data-v-4dcceeb0 {
+  font-size: 24rpx;
+  color: #FAE3A7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 30px 30px 0 0;
+  padding: 20rpx 80rpx;
+  box-sizing: border-box;
+  background: linear-gradient(90deg, #141414 0%, rgba(78, 78, 78, 0.97) 89%);
+}
+.my .toolContent .member .grade.data-v-4dcceeb0 {
+  color: #1D1D1B;
+  font-weight: bold;
+  padding: 8rpx 16rpx;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  background-color: #FAE3A7;
+}
+.my .toolContent .member .grade .member_icon.data-v-4dcceeb0 {
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 10rpx;
+}
+.my .toolContent .user_own.data-v-4dcceeb0 {
+  margin-top: 20rpx;
+  display: flex;
+}
+.my .toolContent .user_own .own_item.data-v-4dcceeb0 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  font-size: 24rpx;
+  color: #3D3D3D;
+}
+.my .toolContent .user_own .own_item .value.data-v-4dcceeb0 {
+  display: flex;
+  margin-bottom: 20rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.my .toolContent .user_own .own_item .value .label.data-v-4dcceeb0 {
+  font-size: 28rpx;
+  -webkit-transform: scale(0.85);
+          transform: scale(0.85);
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+  align-self: flex-end;
+}
+.my .toolContent .toolList.data-v-4dcceeb0 {
+  margin-top: 20rpx;
+}
+.my .toolContent .toolList .title.data-v-4dcceeb0 {
+  color: #3D3D3D;
+  font-size: 32rpx;
+}
+.my .toolContent .toolList .list.data-v-4dcceeb0 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 24rpx;
+}
+.my .toolContent .toolList .list .tool_item.data-v-4dcceeb0 {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 24rpx;
+  margin-bottom: 44rpx;
+}
+.my .toolContent .toolList .list .tool_item .tool_img.data-v-4dcceeb0 {
+  width: 60rpx;
+  height: 60rpx;
+  flex-shrink: 0;
+  margin-bottom: 4rpx;
+}
+.my .toolContent .toolList .list .server.data-v-4dcceeb0 {
+  margin: 0;
+  border: 0rpx;
+  line-height: normal;
+}
+.my .loginOut.data-v-4dcceeb0 {
+  display: flex;
+  justify-content: center;
+  margin: 40rpx 0;
+}
+.my .loginOut .loginOut_btn.data-v-4dcceeb0 {
+  text-align: center;
+  font-size: 32rpx;
+  width: 60%;
+  background-color: #141414;
+  color: #FAE3A7;
+  padding: 22rpx 54rpx;
+  box-sizing: border-box;
+  border-radius: 40rpx;
+}
+.my .boxStyle.data-v-4dcceeb0 {
+  padding: 40rpx 30rpx;
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+  border-radius: 20rpx;
+}
+.my .line.data-v-4dcceeb0 {
+  width: 234rpx;
+  height: 16rpx;
+  border-radius: 20rpx;
+  position: relative;
+  overflow: hidden;
+  margin-top: 8rpx;
+  border: 1px solid #3C3A3A;
+}
+.my .line .activeline.data-v-4dcceeb0 {
+  border-radius: 20rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: #3C3A3A;
+  z-index: 8;
+}
+

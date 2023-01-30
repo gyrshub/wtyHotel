@@ -1,0 +1,44 @@
+.btmStyle.data-v-1ff52d5e {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 26rpx 30rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+  background-color: #FFF;
+  box-sizing: border-box;
+}
+.btmStyle .button_list.data-v-1ff52d5e {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.btmStyle .button_list .btmStyle_btn.data-v-1ff52d5e {
+  color: #FAE4A7;
+  font-size: 36rpx;
+  border-radius: 20rpx;
+  background-color: #0A142A;
+  padding: 12rpx 20rpx;
+  margin-left: 20rpx;
+}
+.btmStyle .settle.data-v-1ff52d5e {
+  width: 40%;
+  font-size: 20rpx;
+}
+.btmStyle .settle .settle_top.data-v-1ff52d5e {
+  display: flex;
+  align-items: baseline;
+}
+.btmStyle .settle .settle_top .totalPrice.data-v-1ff52d5e {
+  font-size: 28rpx;
+  color: #F00;
+  margin-left: 10rpx;
+  font-weight: bold;
+}
+.btmStyle .settle .settle_btm.data-v-1ff52d5e {
+  display: flex;
+  color: #979797;
+}
+

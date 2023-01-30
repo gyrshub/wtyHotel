@@ -1,0 +1,35 @@
+.tarbar.data-v-5344c6f8 {
+  width: 100%;
+  height: 120rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f7f7fa;
+  padding: 20rpx 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 50;
+}
+.tarbar .tarbarItem.data-v-5344c6f8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+.tarbar .tarbarItem .tarbarIcon.data-v-5344c6f8 {
+  width: 64rpx;
+  height: 60rpx;
+  margin-bottom: 4rpx;
+}
+.tarbar .tarbarItem .smallIcon.data-v-5344c6f8 {
+  width: 52rpx;
+}
+.tarbar .tarbarItem .name.data-v-5344c6f8 {
+  font-size: 28rpx;
+  color: #999999;
+}
+.tarbar .tarbarItem .active.data-v-5344c6f8 {
+  color: #FB8146;
+}
+

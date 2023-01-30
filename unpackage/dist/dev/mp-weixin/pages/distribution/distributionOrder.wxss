@@ -1,0 +1,76 @@
+
+page {
+	background-color: #F5F5F5;
+}
+
+.distributionOrder.data-v-4336cb98 {
+  padding-bottom: 80rpx;
+}
+.distributionOrder .topTool.data-v-4336cb98 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #FFF;
+  padding: 20rpx;
+}
+.distributionOrder .topTool .sumPrice.data-v-4336cb98 {
+  font-size: 28rpx;
+  color: #FB8146;
+  width: 65%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.distributionOrder .topTool .withdraw.data-v-4336cb98 {
+  font-size: 28rpx;
+  display: flex;
+  align-items: baseline;
+}
+.distributionOrder .orderList.data-v-4336cb98 {
+  margin-top: 20rpx;
+}
+.distributionOrder .orderList .order-item.data-v-4336cb98 {
+  padding: 32rpx;
+  font-size: 28rpx;
+  color: #0B0B0B;
+  margin-top: 20rpx;
+  background-color: white;
+  border-radius: 20rpx;
+}
+.distributionOrder .orderList .order-item .order-item-top.data-v-4336cb98 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 32rpx;
+  border-bottom: 1px solid #F5F5F5;
+}
+.distributionOrder .orderList .order-item .order-item-top .user.data-v-4336cb98 {
+  display: flex;
+  align-items: center;
+}
+.distributionOrder .orderList .order-item .order-item-top .user .userImage.data-v-4336cb98 {
+  width: 84rpx;
+  height: 84rpx;
+  border-radius: 50%;
+  margin-right: 20rpx;
+}
+.distributionOrder .orderList .order-item .order-item-top .status.data-v-4336cb98 {
+  color: white;
+  border-radius: 20rpx;
+  font-size: 24rpx;
+  padding: 6rpx 24rpx;
+  background: linear-gradient(90deg, #FFAA65 0%, #FB8146 100%);
+}
+.distributionOrder .orderList .order-item .order-item-bottom .order-item-row.data-v-4336cb98 {
+  padding-top: 32rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.distributionOrder .orderList .order-item .order-item-bottom .order-item-row .leftTitle.data-v-4336cb98 {
+  color: #707070;
+}
+.distributionOrder .orderList .order-item .order-item-bottom .order-item-row .price.data-v-4336cb98 {
+  color: #FB8146;
+}
+

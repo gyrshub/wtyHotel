@@ -1,0 +1,92 @@
+
+page{
+	background-color: #F5F5F5;
+}
+
+.recharge .showMoney.data-v-dd0ce27e {
+  padding: 0 32rpx;
+  display: flex;
+  align-items: center;
+  margin: 32rpx 0 52rpx 0;
+}
+.recharge .showMoney .money.data-v-dd0ce27e {
+  font-size: 56rpx;
+  font-family: Bahnschrift;
+  color: #FB8146;
+  margin-left: 24rpx;
+}
+.recharge .rechargeMoney.data-v-dd0ce27e {
+  padding: 32rpx 32rpx 48rpx 32rpx;
+  background-color: white;
+  border-radius: 20rpx;
+}
+.recharge .rechargeMoney .value.data-v-dd0ce27e {
+  margin: 48rpx 0 48rpx 0;
+  padding: 0 0 32rpx 0;
+  display: flex;
+  align-items: center;
+  color: #121212;
+  border-bottom: 2rpx solid #F5F5F5;
+}
+.recharge .rechargeMoney .mode.data-v-dd0ce27e {
+  color: #707070;
+  font-size: 28rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.recharge .rechargeMoney .mode .mode-right.data-v-dd0ce27e {
+  display: flex;
+  align-items: center;
+  color: #121212;
+}
+.recharge .rechargeMoney .mode .mode-right .weixin.data-v-dd0ce27e {
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 8rpx;
+}
+.recharge .rechargeMoney .mode .mode-right .weixin-text.data-v-dd0ce27e {
+  display: flex;
+  align-items: center;
+}
+.recharge .rechargeMoney .moneyList.data-v-dd0ce27e {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20rpx;
+}
+.recharge .rechargeMoney .moneyList .moneyItem.data-v-dd0ce27e {
+  width: 30%;
+  padding: 14rpx 0;
+  text-align: center;
+  font-size: 40rpx;
+  border: 1px solid #999999;
+  border-radius: 10rpx;
+  margin: 10rpx 10rpx 0 0;
+}
+.recharge .rechargeMoney .moneyList .active.data-v-dd0ce27e {
+  border-color: #FB8146;
+  color: #FB8146;
+}
+.recharge .rechargeMoney .rechargeMoney-btn.data-v-dd0ce27e {
+  padding: 0 16rpx;
+  margin-top: 64rpx;
+}
+.recharge .annotation.data-v-dd0ce27e {
+  margin-top: 48rpx;
+  color: #707070;
+  font-size: 26rpx;
+  padding: 0 32rpx;
+}
+.recharge .annotation .annotation-title.data-v-dd0ce27e {
+  font-size: 28rpx;
+  color: #121212;
+  position: relative;
+}
+.recharge .annotation .annotation-item.data-v-dd0ce27e {
+  margin-top: 28rpx;
+}
+.recharge .showText.data-v-dd0ce27e {
+  color: #121212;
+  font-size: 36rpx;
+}
+

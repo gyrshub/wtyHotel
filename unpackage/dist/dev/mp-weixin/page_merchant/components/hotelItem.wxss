@@ -1,0 +1,94 @@
+.hotelItem.data-v-d41fca1a {
+  display: flex;
+  background-color: #ffffff;
+  padding: 28rpx;
+  box-sizing: border-box;
+  border-radius: 30rpx;
+  margin-bottom: 18rpx;
+}
+.hotelItem .item_img.data-v-d41fca1a {
+  width: 220rpx;
+  height: 220rpx;
+  border-radius: 20rpx;
+  margin-right: 28rpx;
+  flex-shrink: 0;
+}
+.hotelItem .content.data-v-d41fca1a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  overflow: hidden;
+}
+.hotelItem .content .goodsName.data-v-d41fca1a {
+  color: #3D3D3D;
+  font-weight: bold;
+}
+.hotelItem .content .middle.data-v-d41fca1a {
+  display: flex;
+  font-size: 24rpx;
+  justify-content: space-between;
+}
+.hotelItem .content .middle .middle_left.data-v-d41fca1a {
+  width: 78%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.hotelItem .content .middle .middle_left .label.data-v-d41fca1a {
+  color: #000;
+  -webkit-transform: scale(0.75);
+          transform: scale(0.75);
+  -webkit-transform-origin: left top;
+          transform-origin: left top;
+}
+.hotelItem .content .middle .middle_left .remind.data-v-d41fca1a {
+  display: flex;
+  align-items: center;
+  color: #2972DE;
+  -webkit-transform: scale(0.75);
+          transform: scale(0.75);
+  -webkit-transform-origin: left bottom;
+          transform-origin: left bottom;
+}
+.hotelItem .content .middle .middle_left .remind .circle.data-v-d41fca1a {
+  padding: 2rpx;
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 1px solid #2972DE;
+  margin-right: 10rpx;
+}
+.hotelItem .content .middle .pay_btn.data-v-d41fca1a {
+  width: 74rpx;
+  height: 74rpx;
+  flex-shrink: 0;
+}
+.hotelItem .content .btm.data-v-d41fca1a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.hotelItem .content .btm .btm_left.data-v-d41fca1a {
+  font-size: 24rpx;
+  color: #D8D8D8;
+  border: 1px solid #D8D8D8;
+  padding: 4rpx 12rpx;
+}
+.hotelItem .content .btm .btm_right.data-v-d41fca1a {
+  display: flex;
+  align-items: baseline;
+}
+.hotelItem .content .btm .btm_right .underline.data-v-d41fca1a {
+  color: #BCBFC4;
+  font-size: 28rpx;
+  text-decoration: line-through;
+}
+.hotelItem .content .btm .btm_right .lightPrice.data-v-d41fca1a {
+  color: #FF0000;
+  font-size: 40rpx;
+}
+.hotelItem .content .btm .reversal.data-v-d41fca1a {
+  flex-direction: row-reverse;
+}
+

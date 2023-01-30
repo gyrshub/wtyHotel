@@ -1,0 +1,39 @@
+.roomList.data-v-62c4d2bd {
+  font-size: 26rpx;
+  color: #707070;
+  padding: 36rpx 32rpx;
+  background-color: white;
+  font-family: PingFangSC-Regular, PingFang SC;
+}
+.roomList .roomItem.data-v-62c4d2bd {
+  border-bottom: 2rpx solid #F2F2F2;
+  display: flex;
+  padding: 28rpx 0;
+}
+.roomList .roomItem.data-v-62c4d2bd:last-child {
+  border-bottom: 0;
+}
+.roomList .roomItem .title.data-v-62c4d2bd {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 10rpx;
+  color: #121212;
+  font-size: 28rpx;
+  margin-right: 32rpx;
+  text-align: center;
+  padding: 12rpx 22rpx;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+.roomList .roomItem .content.data-v-62c4d2bd {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.roomList .roomItem .content .content_item.data-v-62c4d2bd {
+  width: 48%;
+  margin-bottom: 12rpx;
+  display: flex;
+}
+

@@ -1,0 +1,18 @@
+
+page{
+	background: #F6F6F6;
+}
+
+.collection .navigation.data-v-50789bcc {
+  width: 100%;
+}
+.collection .navigation .stabar.data-v-50789bcc {
+  background-color: white;
+}
+.collection .navigation .topTitle.data-v-50789bcc {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20rpx;
+  background-color: white;
+}
+

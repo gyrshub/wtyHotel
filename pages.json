@@ -1,0 +1,230 @@
+{
+	"easycom": {
+			"^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+		},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/collection/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/comment",
+			"style": {
+				"navigationBarTitleText": "评价"
+			}
+		},
+		{
+			"path": "pages/shop/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/shop/detail",
+			"style": {
+				"navigationBarTitleText": "积分商品"
+			}
+		},
+		{
+			"path": "pages/shop/payOrder",
+			"style": {
+				"navigationBarTitleText": "订单支付"
+			}
+		},
+		{
+			"path": "pages/shop/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/member",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/money",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/integral",
+			"style": {
+				"navigationBarTitleText": "积分收支记录",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/my/wallet",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/coupon",
+			"style": {
+				"navigationBarTitleText": "我的优惠券",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/my/hotelOccupancy",
+			"style": {
+				"navigationBarTitleText": "商家入驻",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/my/recharge",
+			"style": {
+				"navigationBarTitleText": "充值中心",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/my/personal",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/distribution/code",
+			"style": {
+				"navigationBarTitleText": "二维码",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/distribution/distributionOrder",
+			"style": {
+				"navigationBarTitleText": "分销订单",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/distribution/distributionApply",
+			"style": {
+				"navigationBarTitleText": "分销申请",
+				"navigationBarBackgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		}
+	],
+	"subPackages": [{
+		"root": "page_merchant",
+		"pages": [{
+			"path": "merchant/search",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "merchant/activity",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "merchant/limitBuy",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "merchant/recommend",
+			"style": {
+				"navigationBarTitleText": "精品推荐"
+			}
+		},
+		{
+			"path": "merchant/merchantDetail",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "merchant/goodsDetail",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "merchant/hotelOrder",
+			"style": {
+				"navigationBarTitleText": "下单支付"
+			}
+		},
+		{
+			"path": "merchant/stealOrder",
+			"style": {
+				"navigationBarTitleText": "订单支付"
+			}
+		}
+		]
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"custom": true,
+		"selectedColor": "#FB8146",
+		"color": "#999999",
+		"borderStyle": "white",
+		"list": [
+			{
+				"pagePath": "pages/index/index"
+			},
+			{
+				"pagePath": "pages/collection/index"
+			},
+			{
+				"pagePath": "pages/order/index"
+			},
+			{
+				"pagePath": "pages/shop/index"
+			},
+			{
+				"pagePath": "pages/my/index"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

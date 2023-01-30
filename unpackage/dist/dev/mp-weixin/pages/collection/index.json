@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tool-tar": "/components/toolbar/toolbar",
+    "shop-list": "/components/shopList_one/shopList_one",
+    "tar-bar": "/components/tarbar/tarbar"
+  }
+}

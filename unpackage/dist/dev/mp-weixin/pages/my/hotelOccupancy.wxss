@@ -1,0 +1,99 @@
+
+page {
+	background-color: #F5F5F5;
+}
+
+.hotelOccupancy.data-v-5438c693 {
+  position: relative;
+}
+.hotelOccupancy .uploadImage.data-v-5438c693 {
+  color: #121212;
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.hotelOccupancy .uploadImage .imageList.data-v-5438c693 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32rpx;
+}
+.hotelOccupancy .uploadImage .imageList .imageItem.data-v-5438c693 {
+  width: 336rpx;
+  height: 192rpx;
+  border-radius: 6rpx;
+  border: 1px solid #F2F2F2;
+  padding: 16rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.hotelOccupancy .uploadImage .imageList .imageItem .imageItem-info.data-v-5438c693 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 28rpx;
+  color: #707070;
+}
+.hotelOccupancy .uploadImage .imageList .imageItem .imageItem-info .camera.data-v-5438c693 {
+  width: 52rpx;
+  height: 52rpx;
+}
+.hotelOccupancy .uploadImage .imageList .imageItem .borderImage.data-v-5438c693 {
+  width: 308rpx;
+  height: 164rpx;
+  position: absolute;
+  top: 16rpx;
+  left: 12rpx;
+}
+.hotelOccupancy .formContent.data-v-5438c693 {
+  color: #121212;
+  font-size: 28rpx;
+  padding-bottom: 180rpx;
+}
+.hotelOccupancy .formContent .form-item.data-v-5438c693 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32rpx 0;
+  border-bottom: 2rpx solid #F5F5F5;
+}
+.hotelOccupancy .formContent .form-item .title.data-v-5438c693 {
+  width: 30%;
+}
+.hotelOccupancy .formContent .form-item .form-input.data-v-5438c693 {
+  width: 68%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.hotelOccupancy .formContent .form-item .form-region.data-v-5438c693 {
+  width: 68%;
+  overflow-x: auto;
+  text-align: right;
+  white-space: nowrap;
+  color: #B2B2B2;
+}
+.hotelOccupancy .formContent .form-item .active.data-v-5438c693 {
+  color: #121212;
+}
+.hotelOccupancy .bottomTool.data-v-5438c693 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  padding: 20rpx 52rpx 48rpx 52rpx;
+  box-sizing: border-box;
+  box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, 0.03);
+  z-index: 10;
+}
+.hotelOccupancy .borderStyle.data-v-5438c693 {
+  border-radius: 20rpx;
+  background-color: white;
+  padding: 32rpx 32rpx 40rpx 32rpx;
+  margin-top: 20rpx;
+}
+

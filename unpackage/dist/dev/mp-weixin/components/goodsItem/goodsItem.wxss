@@ -1,0 +1,170 @@
+.shop_item.data-v-5b4da818 {
+  position: relative;
+  display: flex;
+  margin-top: 30rpx;
+  padding: 10rpx 20rpx 24rpx 20rpx;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  z-index: 10;
+}
+.shop_item .shop_itemBg.data-v-5b4da818 {
+  width: 100%;
+  height: 82%;
+  border-radius: 20rpx;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+}
+.shop_item .shop_img.data-v-5b4da818 {
+  width: 230rpx;
+  height: 230rpx;
+  border-radius: 12px;
+  margin-right: 26rpx;
+  flex-shrink: 0;
+  box-shadow: 3px 2px 7px 2px rgba(100, 100, 100, 0.5);
+}
+.shop_item .shop_info.data-v-5b4da818 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+  height: 230rpx;
+}
+.shop_item .shop_info .info_top.data-v-5b4da818 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #979797;
+}
+.shop_item .shop_info .info_top .orderNo.data-v-5b4da818 {
+  font-size: 24rpx;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+}
+.shop_item .shop_info .info_top .info_distance.data-v-5b4da818 {
+  display: flex;
+  align-items: center;
+  font-size: 26rpx;
+  width: 48%;
+}
+.shop_item .shop_info .info_top .info_distance .info_topIcon.data-v-5b4da818 {
+  width: 20rpx;
+  height: 24rpx;
+  margin-right: 10rpx;
+  flex-shrink: 0;
+}
+.shop_item .shop_info .info_top .info_topLabel.data-v-5b4da818 {
+  width: 50%;
+  font-size: 22rpx;
+}
+.shop_item .shop_info .info_content.data-v-5b4da818 {
+  flex: 1;
+  font-size: 24rpx;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.shop_item .shop_info .info_content .info_title.data-v-5b4da818 {
+  font-size: 32rpx;
+  font-weight: 600;
+  color: #3D3D3D;
+  margin-top: 18rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.shop_item .shop_info .info_content .info_title .info_icon.data-v-5b4da818 {
+  width: 28rpx;
+  height: 30rpx;
+  margin-right: 14rpx;
+}
+.shop_item .shop_info .info_content .info_title .titleText.data-v-5b4da818 {
+  flex: 1;
+  margin-right: 20rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.shop_item .shop_info .info_content .info_item.data-v-5b4da818 {
+  color: #081831;
+  margin-top: 8rpx;
+  display: flex;
+  align-items: center;
+}
+.shop_item .shop_info .info_content .info_item .info_merchantName.data-v-5b4da818 {
+  color: #3D3D3D;
+  font-size: 24rpx;
+  overflow: hidden;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.shop_item .shop_info .info_content .info_item .info_cost.data-v-5b4da818 {
+  color: #FF0000;
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.shop_item .shop_info .info_content .info_item .time.data-v-5b4da818 {
+  color: #979797;
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+}
+.shop_item .shop_info .info_content .info_item .score.data-v-5b4da818 {
+  font-weight: bold;
+  color: #FFE8CE;
+  border-radius: 0 8px 0 8px;
+  background: #081831;
+  padding: 10rpx 8rpx;
+}
+.shop_item .shop_info .info_content .info_item .member.data-v-5b4da818 {
+  font-family: MiSans;
+  border-radius: 12px;
+  padding: 2rpx 4rpx;
+  color: #081831;
+  border: 1px solid #081831;
+}
+.shop_item .shop_info .info_content .info_cow.data-v-5b4da818 {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40rpx;
+}
+.shop_item .shop_info .info_content .info_cow .cow_item.data-v-5b4da818 {
+  display: flex;
+  flex-direction: column;
+}
+.shop_item .shop_info .info_content .info_cow .cow_item .cow_left.data-v-5b4da818 {
+  display: flex;
+  justify-content: space-between;
+}
+.shop_item .shop_info .info_content .info_cow .cow_item .cow_merchantName.data-v-5b4da818 {
+  color: #3D3D3D;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.underline_price.data-v-5b4da818 {
+  text-decoration: line-through;
+  color: #979797;
+  font-size: 24rpx;
+}
+.info_price.data-v-5b4da818 {
+  font-size: 40rpx;
+  font-weight: 600;
+  color: #FF0000;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.sold.data-v-5b4da818 {
+  color: #C3A326;
+}
+.capita.data-v-5b4da818 {
+  color: #979797;
+}
+

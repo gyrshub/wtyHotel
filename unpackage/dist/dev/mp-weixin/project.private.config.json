@@ -1,0 +1,125 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "wentao_hotel",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "pages/shop/payOrder",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/order/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/my/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/merchantDetail",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/order/orderDetail",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/stealOrder",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/my/wallet",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/distribution/distributionOrder",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/my/member",
+          "query": "needExp=2000&level=1&percent=33&exp=1000",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/search",
+          "query": "low=&high=&keyword=&startTime=2022-12-19&endTime=2022-12-20&status=0",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/search",
+          "query": "low=&high=&keyword=&startTime=2022-12-29&endTime=2022-12-30&status=0",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/merchantDetail",
+          "query": "id=1&longitude=108.366947&latitude=22.816708&startTime=2022-12-30&endTime=2022-12-31",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/order/orderDetail",
+          "query": "id=1608776392276652033&startTime=2022-12-30%2000%3A00%3A00&endTime=2022-12-31%2012%3A00%3A00",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/limitBuy",
+          "query": "longitude=108.366947&latitude=22.816708&startTime=2023-01-04&endTime=2023-01-05",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/order/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/merchant/limitBuy",
+          "query": "longitude=110.18097&latitude=22.654001&startTime=2023-01-05&endTime=2023-01-06",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+
+page {
+	background-color: #F5F5F5;
+}
+
+.wallet .topTool.data-v-997678da {
+  width: 750rpx;
+  height: 460rpx;
+  position: relative;
+}
+.wallet .topTool .topImg.data-v-997678da {
+  width: 100%;
+  height: 100%;
+}
+.wallet .topTool .tool.data-v-997678da {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  z-index: 10;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+}
+.wallet .topTool .tool .icon.data-v-997678da {
+  width: 40rpx;
+  height: 40rpx;
+}
+.wallet .topTool .topTitle.data-v-997678da {
+  position: absolute;
+  left: 50%;
+  z-index: 10;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 32rpx;
+  color: #FFFFFF;
+}
+.wallet .content.data-v-997678da {
+  padding: 0 32rpx;
+  z-index: 50;
+  position: relative;
+}
+.wallet .content .user-wallet.data-v-997678da {
+  background-color: #FFFFFF;
+  border-radius: 20rpx;
+  margin-top: -240rpx;
+}
+.wallet .content .user-wallet .userInfo.data-v-997678da {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 64rpx;
+  padding: 32rpx 32rpx 0 32rpx;
+}
+.wallet .content .user-wallet .userInfo .userInfo-left.data-v-997678da {
+  color: #121212;
+  font-size: 28rpx;
+  display: flex;
+  align-items: center;
+}
+.wallet .content .user-wallet .userInfo .userInfo-left .userImage.data-v-997678da {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 50%;
+  margin-right: 16rpx;
+}
+.wallet .content .user-wallet .userInfo .userInfo-right.data-v-997678da {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 20rpx;
+  color: #3D3D3D;
+}
+.wallet .content .user-wallet .money.data-v-997678da {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 12rpx 0 32rpx 0;
+  padding: 0 0 46rpx 32rpx;
+}
+.wallet .content .user-wallet .money .showMoney.data-v-997678da {
+  width: 60%;
+  font-size: 68rpx;
+  font-weight: bold;
+  font-family: Bahnschrift_SemiBold;
+  color: #121212;
+}
+.wallet .content .user-wallet .money .recharge.data-v-997678da {
+  font-size: 26rpx;
+  color: #DFBA8E;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.302);
+  padding: 16rpx 38rpx;
+  border-radius: 20rpx 0 0 20rpx;
+}
+.wallet .content .annotation.data-v-997678da {
+  margin-top: 48rpx;
+  color: #707070;
+  font-size: 26rpx;
+}
+.wallet .content .annotation .annotation-title.data-v-997678da {
+  font-size: 28rpx;
+  color: #121212;
+  position: relative;
+}
+.wallet .content .annotation .annotation-title .annotation-text.data-v-997678da {
+  position: relative;
+  z-index: 10;
+}
+.wallet .content .annotation .annotation-title .underline.data-v-997678da {
+  width: 176rpx;
+  height: 8rpx;
+  background-color: #FB8146;
+  border-radius: 20rpx;
+  position: absolute;
+  left: 0;
+  bottom: 4rpx;
+  z-index: 8;
+}
+.wallet .content .annotation .annotation-item.data-v-997678da {
+  margin-top: 28rpx;
+}
+.wallet .wallet-icon.data-v-997678da {
+  width: 40rpx;
+  height: 40rpx;
+}
+
